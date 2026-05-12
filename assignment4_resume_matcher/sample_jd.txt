@@ -1,0 +1,9 @@
+We are looking for a Python AI Engineer with strong experience in LangChain, 
+LangGraph, and RAG pipeline development. The candidate should have hands-on 
+experience with ChromaDB, PostgreSQL, and vector database concepts.
+Experience with Django, FastAPI, and REST API development is required.
+Knowledge of Groq, HuggingFace embeddings, and LLM integration is essential.
+Familiarity with Git, Render deployment, and cloud infrastructure is a plus.
+Experience with NLP, cosine similarity, and TF-IDF algorithms is beneficial.
+Strong understanding of Python, numpy, and pandas is required.
+The candidate should have experience building and evaluating AI pipelines.
