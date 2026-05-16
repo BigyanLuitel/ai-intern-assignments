@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+.venv311/
+venv/
+venv311/
+
+# Dataset
+Actor_*/
+
+# Trained models
+*.pkl
+*.task
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
